@@ -5,7 +5,7 @@
  4522210023 : Yesi Agustin <br>
  4522210054 : Siti Intan Nia <br>
  4522210114 : Nur Ikhsan A <br>
- 4522210124 : Muhammad Septian F <br>
+ 4522210124 : Muhammad Septian Farisasmita <br>
 
 # Background Si Pemilik Usaha MUA / Make Up Artist  <br>
 Dwi Rianingsih MUA ini telah membangun karirnya sebagai seorang MUA pada tahun 2018 hingga saat ini. Untuk pertama kalinya DRA mengambil jobnya yaitu melakukan make up wisuda dan sampai akhirnya DRA ini bisa MUA [wedding , wisuda, bahkan hingga beberapa artis yang sudah pernah memakai jasa make up Nya. Pada tahun 2022 DRA ini berhasil membuat tempat khusus untuk menyimpan alat make up dan juga dress pengantin yang sudah ia miliki sejak awal 2022. Keahlihan yang DRA miliki makin terlatih sampai saat ini. <br>
