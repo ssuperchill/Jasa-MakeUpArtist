@@ -74,4 +74,19 @@ MUA :
        - Keahlian dan pengalaman
        - Layanan yang ditawarkan
 2. Fitur upload result foto/video customer
- MUA :
+3. Fitur Pemesanan:
+       - Menandai tanggal dan waktu yang telah ada janji.
+       - Notifikasi pesanan baru.
+       - Daftar pesanan Customer (sistem secara otomatis
+          melakukan pengecekan jadwalan yang memungkinkan
+          bentrok)
+      - Menerima dan menolak pemesanan
+ 4. Fitur menandai cust yang sedang proses dan selesai 
+         proses
+5. Fitur pembayaran
+      - Mengatur harga
+      - Melihat data pembayaran 
+6. Fitur Chat Langsung
+      - Berkomunikasi dengan customer
+      - Mengatur detail pemesanan
+  
