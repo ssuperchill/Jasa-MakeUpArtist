@@ -89,4 +89,13 @@ MUA :
 6. Fitur Chat Langsung
       - Berkomunikasi dengan customer
       - Mengatur detail pemesanan
-  
+7. Fitur jadwal urutan pesanan pada hari tsb/mengatur jam kerja
+8. Fitur peringatan jadwal
+
+Customer : 
+Fitur isi profil
+Fitur melihat profil MUA
+Fitur melihat result foto/video customer
+Fitur tampilan utama jenis makeup populer/iklan
+Fitur jenis make up ( untuk melihat jenis make up seperti bold/ elegant/natural) 
+Fitur harga
