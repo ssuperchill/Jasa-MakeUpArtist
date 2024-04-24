@@ -99,5 +99,11 @@ Customer :
 4.Fitur tampilan utama jenis makeup populer/iklan
 5.Fitur jenis make up ( untuk melihat jenis make up seperti bold/ elegant/natural) 
 6.Fitur harga
+7.Fitur pemesanan/booking (untuk melihat tanggal dn waktu yang masih kosong )
+8.Fitur Transaksi/untuk pembayaran non tunai.
+9.Fitur melihat poin
+10.Fitur chat langsung dengan MUA
+11.Fitur memberikan rating dan review 
+12.Fitur denah lokasi
 
 
