@@ -1,4 +1,4 @@
-# RANCANGAN SOFTWAREE TERKAIT JASA MAKE UP / RIAS PENGANTIN #
+# RANCANGAN SOFTWARE TERKAIT JASA MAKE UP / RIAS PENGANTIN #
 
 <br> Anggota Kelompok 12 <br>
  <br> 4522210019 : Lutfiah Rizka <br>
@@ -18,11 +18,11 @@ Rancangan software jasa make-up/rias pengantin bertujuan untuk meningkatkan efis
 Tujuan Perancangan <br>
 
 # Analisis 3 Actor <br>
-Manager <br>
+<br> - Manager <br>
 Memerlukan analisis penjadwalan, memerlukan analisis marketing, memerlukan analisis keberlangsungan bisnis dan analisis dalam menghadapi krisis dimasa depan, memerlukan analisis dalam menghandle sosmed, verifikasi data diri pelanggan agar terhindar dari order fiktif <br>
-MUA<br>
+<br> - MUA <br>
 Merlukan data customer, data kepuasan pelanggan, pembayaran customer, jadwal make up beserta jam dan lokasi , memerlukan ulasan dari customer terkait make up nya <br>
-Customer<br>
+<br> - Customer <br>
 Memerlukan data tren makeup yang sedang populer saat ini/yang sering digunakan sesuai kepopuleran, data kepuasan pelanggan yang paling penting mengetahui harga disetiap jenis makeup <br>
 
 # Problem/Masalah <br>
