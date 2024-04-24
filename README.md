@@ -33,12 +33,13 @@ Memerlukan data tren makeup yang sedang populer saat ini/yang sering digunakan s
 5.Pembatalan janji secara sepihak oleh customer tanpa adanya konfirmasi kepada MUA. <br>
 
 # Solving/Solusi <br>
-1. Membuat sistem management penjadwalan untuk menghindari jadwal bentrok. <br>
-2. MUA menyediakan waktu lebih untuk proses make up, Customer dikenanakan denda bila waktu acara tidak sesuai kesepakatan.<br>
+1. Membuat sistem management penjadwalan untuk MUA agar menghindari jadwal bentrok. <br>
+2. MUA menyediakan waktu lebih untuk proses make up Customer dikenakan denda bila waktu acara tidak sesuai kesepakatan.<br>
 3. ⁠Diadakan sesi konsultasi antara MUA dan customer untuk look make up acara, sehingga customer mendapatkan hasil make up yang sesuai keinginannya.<br>
 4. Customer diminta untuk melakukan pembayaran uang muka (DP) saat melakukan pemesanan.<br>
 5. ⁠Membuat kebijakan pembatalan dengan ketentuan bilamana customer melakukan pembatan lebih dari H-7 uang muka (DP) tidak dapat dikembalikan.<br>
 6. Perubahan jadwal lebih dari H-3 dikenakan uang dendatanggal pemesanan , untuk mengubah jadwal ataupun membatalkan  sehingga tidak ada kerugian dan miskom antara customer dan MUA<br>
+7. Manager bantu mengingatkan terkait kegiatan atau jadwal MUA, seperti berkomunikasi h-3/2 sebelum acara agar tidak terjadi kelupaan job bagi MUA<br>
 
 # FITUR 
 *Manager*:
@@ -97,5 +98,4 @@ Memerlukan data tren makeup yang sedang populer saat ini/yang sering digunakan s
 10. Fitur chat langsung dengan MUA.
 11. Fitur memberikan rating dan review.
 12. Fitur denah lokasi.
-
 
