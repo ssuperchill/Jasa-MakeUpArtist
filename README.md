@@ -6,3 +6,41 @@ RANCANGAN SOFTWAREE TERKAIT JASA MAKE UP / RIAS PENGANTIN
  4522210054 : Siti Intan Nia <br>
  4522210114 : Nur Ikhsan A <br>
  4522210124 : Muhammad Septian F <br>
+
+Baghround Si Pemilik Usaha MUA / Make Up Artist  <br>
+Dwi Rianingsih MUA ini telah membangun karirnya sebagai seorang MUA pada tahun 2018 hingga saat ini. Untuk pertama kalinya DRA mengambil jobnya yaitu melakukan make up wisuda dan sampai akhirnya DRA ini bisa MUA [wedding , wisuda, bahkan hingga beberapa artis yang sudah pernah memakai jasa make up Nya. Pada tahun 2022 DRA ini berhasil membuat tempat khusus untuk menyimpan alat make up dan juga dress pengantin yang sudah ia miliki sejak awal 2022. Keahlihan yang DRA miliki makin terlatih sampai saat ini. <br>
+
+Latar Belakang <br>
+Industri make-up dan rias pengantin berkembang pesat, mendorong inovasi layanan dan operasional. Proses kompleks ini memerlukan manajemen yang cermat. Platform digital dan media sosial membuka peluang pasar baru, namun membutuhkan solusi teknologi yang tepat. Kemajuan TI memungkinkan pengembangan software khusus untuk mengelola jadwal, inventaris, dan interaksi dengan klien secara efisien. Pengelolaan data yang baik dapat meningkatkan layanan dan hubungan dengan klien. Pengembangan software khusus ini dapat meningkatkan efisiensi, kualitas layanan, dan jangkauan pasar para profesional make-up dan rias pengantin. <br>
+
+Tujuan Perancangan <br>
+Rancangan software jasa make-up/rias pengantin bertujuan untuk meningkatkan efisiensi, pengalaman pelanggan, dan komunikasi. Dengan fitur seperti pemilihan gaya rias wajah virtual, software membantu pelanggan membuat keputusan yang lebih baik. Selain itu, software juga membantu dalam manajemen bisnis dengan melacak kinerja dan keuangan. Dengan platform online, bisnis dapat menjangkau lebih banyak pelanggan dan meningkatkan keamanan data. Dengan demikian, software ini membantu bisnis make-up/rias pengantin meningkatkan layanan dan memperluas pasar.
+Tujuan Perancangan <br>
+
+Analisis 3 Actor <br>
+Manager <br>
+Memerlukan analisis penjadwalan, memerlukan analisis marketing, memerlukan analisis keberlangsungan bisnis dan analisis dalam menghadapi krisis dimasa depan, memerlukan analisis dalam menghandle sosmed, verifikasi data diri pelanggan agar terhindar dari order fiktif <br>
+MUA<br>
+Merlukan data customer, data kepuasan pelanggan, pembayaran customer, jadwal make up beserta jam dan lokasi , memerlukan ulasan dari customer terkait make up nya <br>
+Customer<br>
+Memerlukan data tren makeup yang sedang populer saat ini/yang sering digunakan sesuai kepopuleran, data kepuasan pelanggan yang paling penting mengetahui harga disetiap jenis makeup <br>
+
+Problem/Masalah <br>
+1.Terdapat beberapa jadwal dalam satu waktu (bentrok) <br>
+⁠2.Pemilihan dan penggunaan waktu yang kurang efektif. <br>
+3.Hasil Make Up tidak memenuhi ekspetasi customer . <br>
+4.Customer tidak melakukan pelunasan pembayaran sesuai waktu yang telah disepakati. <br>
+5.Pembatalan janji secara sepihak oleh customer tanpa adanya konfirmasi kepada MUA. <br>
+
+Solving <br>
+1.  Membuat sistem management penjadwalan untuk menghindari jadwal bentrok. <br>
+2. MUA menyediakan waktu lebih untuk proses make up, Customer dikenanakan
+    denda bila waktu acara tidak sesuai kesepakatan.<br>
+3. ⁠Diadakan sesi konsultasi antara MUA dan customer untuk look make up acara,
+    sehingga customer mendapatkan hasil make up yang sesuai keinginannya.<br>
+4. Customer diminta untuk melakukan pembayaran uang muka (DP) saat melakukan 
+    pemesanan.<br>
+5. ⁠Membuat kebijakan pembatalan dengan ketentuan bilamana customer melakukan
+    pembatan lebih dari H-7 uang muka (DP) tidak dapat dikembalikan.<br>
+6. Perubahan jadwal lebih dari H-3 dikenakan uang dendatanggal pemesanan , untuk mengubah jadwal ataupun membatalkan 
+    sehingga tidak ada kerugian dan miskom antara customer dan MUA<br>
