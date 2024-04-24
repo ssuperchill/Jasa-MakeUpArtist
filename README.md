@@ -44,3 +44,34 @@ Solving <br>
     pembatan lebih dari H-7 uang muka (DP) tidak dapat dikembalikan.<br>
 6. Perubahan jadwal lebih dari H-3 dikenakan uang dendatanggal pemesanan , untuk mengubah jadwal ataupun membatalkan 
     sehingga tidak ada kerugian dan miskom antara customer dan MUA<br>
+
+ FITUR 
+ Manager :
+1. Fitur manajemen tim
+   - Melihat profil MUA (foto, bio, pengalaman kerja ,result customer)
+   - Mengelola ketersediaan MUA dan mengatur jadwal MUA
+   - Menetapkan tugas dan proyek
+2. Fitur chat dengan MUA dan Customer
+3. Fitur mengirimkan notifikasi info 
+4. Fitur promosi
+   - Membuat dan mengelola promo
+5. Fitur memasarkan iklan di aplikasi
+6. Fitur manajemen pelanggan (menyimpan data pelanggan)
+7. Fitur manajemen keuangan
+   - Melacak pembayaran cust
+   - Memproses gaji ke MUA
+8. Fitur manajemen layanan 
+   - Mengatur jenis layanan yang laris
+   - Melihat data rating dan review
+   - Memberi poin ke customer
+9. Fitur stok/ketersediaan barang
+10. Fitur kinerja tim(kepuasan pelanggan)
+
+MUA :
+1. Fitur Profil:
+       - Foto profil
+       - Biografi singkat
+       - Keahlian dan pengalaman
+       - Layanan yang ditawarkan
+2. Fitur upload result foto/video customer
+ MUA :
