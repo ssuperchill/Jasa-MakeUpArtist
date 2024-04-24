@@ -93,9 +93,11 @@ MUA :
 8. Fitur peringatan jadwal
 
 Customer : 
-Fitur isi profil
-Fitur melihat profil MUA
-Fitur melihat result foto/video customer
-Fitur tampilan utama jenis makeup populer/iklan
-Fitur jenis make up ( untuk melihat jenis make up seperti bold/ elegant/natural) 
-Fitur harga
+1.Fitur isi profil
+2.Fitur melihat profil MUA
+3.Fitur melihat result foto/video customer
+4.Fitur tampilan utama jenis makeup populer/iklan
+5.Fitur jenis make up ( untuk melihat jenis make up seperti bold/ elegant/natural) 
+6.Fitur harga
+
+
