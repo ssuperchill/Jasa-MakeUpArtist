@@ -1,6 +1,6 @@
 # RANCANGAN SOFTWARE TERKAIT JASA MAKE UP / RIAS PENGANTIN #
 
-<br> Anggota Kelompok 12 <br>
+<br> Anggota Kelompok 11 <br>
  <br> 4522210019 : Lutfiah Rizka <br>
  4522210023 : Yesi Agustin <br>
  4522210054 : Siti Intan Nia <br>
