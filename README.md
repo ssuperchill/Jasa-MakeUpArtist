@@ -44,3 +44,6 @@ Memerlukan data tren makeup yang sedang populer saat ini/yang sering digunakan s
 # Use Case <br>
 ![us ces](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/81aac2b0-6eea-49bc-b153-780f17aa32f6)
 
+# ERD <br>
+![ERD FIKS](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/37094588-03a7-4e4e-9a13-2267a7fe253f)
+
