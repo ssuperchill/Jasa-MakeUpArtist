@@ -120,3 +120,8 @@ Customer : <br>
 # User Interface (figma)
 [Klik Untuk Dapat Melihat Design Figma](https://www.figma.com/file/MSJyh6XztRZBwZUEFtAYww/Untitled?type=design&node-id=37%3A96&mode=design&t=JLC2SZIKHd8Be7yQ-1)
 
+# Tentang Kami
+![Tentang kami](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/122336989/47b2c14e-cbfc-4edb-9921-79b4ef795e44)
+
+# Video Presentasi YouTube
+[Klik_Untuk_Melihat](https://youtu.be/5XbmwQqhrQ0)
