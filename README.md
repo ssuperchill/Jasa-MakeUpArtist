@@ -90,16 +90,16 @@ MUA :
 
 Customer : <br>
 1.Fitur isi profil <br>
-2.Fitur melihat profil MUA
-3.Fitur melihat result foto/video customer
-4.Fitur tampilan utama jenis makeup populer/iklan
-5.Fitur jenis make up ( untuk melihat jenis make up seperti bold/ elegant/natural) 
-6.Fitur harga
-7.Fitur pemesanan/booking (untuk melihat tanggal dn waktu yang masih kosong )
-8.Fitur Transaksi/untuk pembayaran non tunai.
-9.Fitur melihat poin
-10.Fitur chat langsung dengan MUA
-11.Fitur memberikan rating dan review 
+2.Fitur melihat profil MUA <br> 
+3.Fitur melihat result foto/video customer<br>
+4.Fitur tampilan utama jenis makeup populer/iklan<br>
+5.Fitur jenis make up ( untuk melihat jenis make up seperti bold/ elegant/natural) <br>
+6.Fitur harga<br>
+7.Fitur pemesanan/booking (untuk melihat tanggal dn waktu yang masih kosong )<br>
+8.Fitur Transaksi/untuk pembayaran non tunai.<br>
+9.Fitur melihat poin<br>
+10.Fitur chat langsung dengan MUA<br>
+11.Fitur memberikan rating dan review <br>
 12.Fitur denah lokasi <br>
 
 
