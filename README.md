@@ -114,6 +114,9 @@ Customer : <br>
 # Class Diagram <br>
 ![cd](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/f5167cfd-337b-4ebe-a49a-4042908f8e7d)
 
+# Flow Chart
+![Flowchart](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/122336989/2a558a4b-54f3-4299-9aca-54676222f552)
+
 # User Interface (figma)
 [Klik Untuk Dapat Melihat Design Figma](https://www.figma.com/file/MSJyh6XztRZBwZUEFtAYww/Untitled?type=design&node-id=37%3A96&mode=design&t=JLC2SZIKHd8Be7yQ-1)
 
