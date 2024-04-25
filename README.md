@@ -46,7 +46,7 @@ Memerlukan data tren makeup yang sedang populer saat ini/yang sering digunakan s
 2. Memastikan antarmuka pengguna (UI) dirancang dengan baik dan menarik. <br>
 3. Melakukan pengujian perangkat lunak (Skin Analyzer) pada customer. <br>
 4. Memperhatikan keamanan data pengguna. <br>
-5. Membuat video singkat proses make up yang ditampilkan pada halaman utama website. <br>
+5. Membuat video singkat proses MAKE UP yang ditampilkan pada halaman utama website. <br>
    
 # User Interface(figma)
 # Data Mentah 
