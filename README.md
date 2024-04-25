@@ -40,7 +40,7 @@ Memerlukan data tren makeup yang sedang populer saat ini/yang sering digunakan s
 5. ⁠Membuat kebijakan pembatalan dengan ketentuan bilamana customer melakukan pembatan lebih dari H-7 uang muka (DP) tidak dapat dikembalikan.<br>
 6. Perubahan jadwal lebih dari H-3 dikenakan uang dendatanggal pemesanan , untuk mengubah jadwal ataupun membatalkan  sehingga tidak ada kerugian dan miskom antara customer dan MUA<br>
 7. Manager bantu mengingatkan terkait kegiatan atau jadwal MUA, seperti berkomunikasi h-3/2 sebelum acara agar tidak terjadi kelupaan job bagi MUA<br>
-# User Interface(figma)
+
 # Data Mentah 
 ![cth kwi](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/22961703-5d59-4bce-abbc-a3b501a4ba33)
 
@@ -52,3 +52,5 @@ Memerlukan data tren makeup yang sedang populer saat ini/yang sering digunakan s
 
 # Class Diagram <br>
 ![cd](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/f5167cfd-337b-4ebe-a49a-4042908f8e7d)
+
+# User Interface (figma)
