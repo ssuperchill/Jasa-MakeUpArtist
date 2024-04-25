@@ -41,6 +41,9 @@ Memerlukan data tren makeup yang sedang populer saat ini/yang sering digunakan s
 6. Perubahan jadwal lebih dari H-3 dikenakan uang dendatanggal pemesanan , untuk mengubah jadwal ataupun membatalkan  sehingga tidak ada kerugian dan miskom antara customer dan MUA<br>
 7. Manager bantu mengingatkan terkait kegiatan atau jadwal MUA, seperti berkomunikasi h-3/2 sebelum acara agar tidak terjadi kelupaan job bagi MUA<br>
 
+# Contoh Kwitansi Pembayaran Manual MUA kepada Customer
+![cth kwi](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/22961703-5d59-4bce-abbc-a3b501a4ba33)
+
 # Use Case <br>
 ![us ces](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/81aac2b0-6eea-49bc-b153-780f17aa32f6)
 
