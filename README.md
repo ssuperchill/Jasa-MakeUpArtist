@@ -49,8 +49,8 @@ Memerlukan data tren makeup yang sedang populer saat ini/yang sering digunakan s
 5. Membantu MUA dan Manager dalam strategi pemasaran.<br>
 
 # Data Mentah 
-![cth kwi](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/22961703-5d59-4bce-abbc-a3b501a4ba33)
-
+![alt text](![Data Mentah MUA](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145907542/85d79aa5-f85b-4466-9e17-ef146d68d639)
+?raw=true)
 
 # Use Case <br>
 ![us ces](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/81aac2b0-6eea-49bc-b153-780f17aa32f6)
