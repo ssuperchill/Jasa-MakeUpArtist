@@ -41,12 +41,6 @@ Memerlukan data tren makeup yang sedang populer saat ini/yang sering digunakan s
 6. Perubahan jadwal lebih dari H-3 dikenakan uang dendatanggal pemesanan , untuk mengubah jadwal ataupun membatalkan  sehingga tidak ada kerugian dan miskom antara customer dan MUA<br>
 7. Manager bantu mengingatkan terkait kegiatan atau jadwal MUA, seperti berkomunikasi h-3/2 sebelum acara agar tidak terjadi kelupaan job bagi MUA<br>
 
-# Must Do/Harus dilakukan <br>
-1. Dapat membantu preferensi MUA.<br>
-2. Membantu MUA dalam penjadwalan.<br>
-3. Membantu Manager dalam mengelola pemasukan dan pengaluaran.<br>
-4. Membantu MUA dalam memahami customer.<br>
-5. Membantu MUA dan Manager dalam strategi pemasaran.<br>
 
 # Data Mentah 
 ![Data Mentah MUA](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145907542/c22678fd-209e-45a0-a688-bf4bd134ac0e)
