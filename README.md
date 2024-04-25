@@ -62,4 +62,5 @@ Memerlukan data tren makeup yang sedang populer saat ini/yang sering digunakan s
 
 # User Interface (figma)
 [klik Untuk Dapat Melihat Design Figma](https://www.figma.com/file/MSJyh6XztRZBwZUEFtAYww/Untitled?type=design&node-id=37%3A96&mode=design&t=JLC2SZIKHd8Be7yQ-1)
+![Contoh Pemasaran](https://github.com/IntanNia1404/Jasa-MakeUpArtist/assets/145907542/8fa9f1e2-7265-4120-a529-79464e37b6eb)
 
