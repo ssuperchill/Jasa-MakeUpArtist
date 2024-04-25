@@ -41,61 +41,19 @@ Memerlukan data tren makeup yang sedang populer saat ini/yang sering digunakan s
 6. Perubahan jadwal lebih dari H-3 dikenakan uang dendatanggal pemesanan , untuk mengubah jadwal ataupun membatalkan  sehingga tidak ada kerugian dan miskom antara customer dan MUA<br>
 7. Manager bantu mengingatkan terkait kegiatan atau jadwal MUA, seperti berkomunikasi h-3/2 sebelum acara agar tidak terjadi kelupaan job bagi MUA<br>
 
-# FITUR 
-*Manager*:
-1. Fitur manajemen tim
-   - Melihat profil MUA (foto, bio, pengalaman kerja ,result customer)
-   - Mengelola ketersediaan MUA dan mengatur jadwal MUA
-   - Menetapkan tugas dan proyek
-2. Fitur chat dengan MUA dan Customer
-3. Fitur mengirimkan notifikasi info 
-4. Fitur promosi
-   - Membuat dan mengelola promo
-5. Fitur memasarkan iklan di aplikasi
-6. Fitur manajemen pelanggan (menyimpan data pelanggan)
-7. Fitur manajemen keuangan
-   - Melacak pembayaran cust
-   - Memproses gaji ke MUA
-8. Fitur manajemen layanan 
-   - Mengatur jenis layanan yang laris
-   - Melihat data rating dan review
-   - Memberi poin ke customer
-9. Fitur stok/ketersediaan barang
-10. Fitur kinerja tim(kepuasan pelanggan)
 
-*MUA*:
-1. Fitur Profil:
-    - Foto profil
-    - Biografi singkat
-    - Keahlian dan pengalaman
-    - Layanan yang ditawarkan
-2. Fitur upload result foto/video customer
-3. Fitur Pemesanan:
-    - Menandai tanggal dan waktu yang telah ada janji.
-    - Notifikasi pesanan baru.
-    - Daftar pesanan Customer (sistem secara otomatis melakukan pengecekan jadwalan yang memungkinkan bentrok)
-    - Menerima dan menolak pemesanan
- 4. Fitur menandai cust yang sedang proses dan selesai proses
- 5. Fitur pembayaran
-     - Mengatur harga
-     - Melihat data pembayaran 
- 6. Fitur Chat Langsung
-      - Berkomunikasi dengan customer
-      - Mengatur detail pemesanan
- 7. Fitur jadwal urutan pesanan pada hari tsb/mengatur jam kerja
- 8. Fitur peringatan jadwal
+# Data Mentah 
+![Data Mentah MUA](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145907542/c22678fd-209e-45a0-a688-bf4bd134ac0e)
 
-*Customer*: 
-1. Fitur isi profil.
-2. Fitur melihat profil MUA.
-3. Fitur melihat result foto/video customer.
-4. Fitur tampilan utama jenis makeup populer/iklan.
-5. Fitur jenis make up ( untuk melihat jenis make up seperti bold/ elegant/natural).
-6. Fitur harga.
-7. Fitur pemesanan/booking (untuk melihat tanggal dn waktu yang masih kosong).
-8. Fitur Transaksi/untuk pembayaran non tunai.
-9. Fitur melihat poin.
-10. Fitur chat langsung dengan MUA.
-11. Fitur memberikan rating dan review.
-12. Fitur denah lokasi.
+# Use Case <br>
+![us ces](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/81aac2b0-6eea-49bc-b153-780f17aa32f6)
+
+# ERD <br>
+![ERD FIKS](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/37094588-03a7-4e4e-9a13-2267a7fe253f)
+
+# Class Diagram <br>
+![cd](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/f5167cfd-337b-4ebe-a49a-4042908f8e7d)
+
+# User Interface (figma)
+[Klik Untuk Dapat Melihat Design Figma](https://www.figma.com/file/MSJyh6XztRZBwZUEFtAYww/Untitled?type=design&node-id=37%3A96&mode=design&t=JLC2SZIKHd8Be7yQ-1)
 
