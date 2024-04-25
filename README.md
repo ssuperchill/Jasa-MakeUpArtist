@@ -40,13 +40,6 @@ Memerlukan data tren makeup yang sedang populer saat ini/yang sering digunakan s
 5. ⁠Membuat kebijakan pembatalan dengan ketentuan bilamana customer melakukan pembatan lebih dari H-7 uang muka (DP) tidak dapat dikembalikan.<br>
 6. Perubahan jadwal lebih dari H-3 dikenakan uang dendatanggal pemesanan , untuk mengubah jadwal ataupun membatalkan  sehingga tidak ada kerugian dan miskom antara customer dan MUA<br>
 7. Manager bantu mengingatkan terkait kegiatan atau jadwal MUA, seperti berkomunikasi h-3/2 sebelum acara agar tidak terjadi kelupaan job bagi MUA<br>
-
-# Must Do/Harus dilakukan <br>
-1. Memahami kebutuhan dan prefensi pengguna MUA. <br>
-2. Memastikan antarmuka pengguna (UI) dirancang dengan baik dan menarik. <br>
-3. Melakukan pengujian perangkat lunak (Skin Analyzer) pada customer. <br>
-4. Memperhatikan keamanan data pengguna. <br>
-5. Membuat video singkat proses make up yang ditampilkan pada halaman utama website. <br>
    
 # User Interface(figma)
 # Data Mentah 
