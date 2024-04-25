@@ -50,6 +50,8 @@ Memerlukan data tren makeup yang sedang populer saat ini/yang sering digunakan s
 
 # Data Mentah 
 ![cth kwi](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/22961703-5d59-4bce-abbc-a3b501a4ba33)
+![cth dtcstmr](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/167995889/f3ec9a59-75d7-4878-adcf-4b392fbf4171)
+
 
 # Use Case <br>
 ![us ces](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/81aac2b0-6eea-49bc-b153-780f17aa32f6)
