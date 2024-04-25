@@ -54,39 +54,39 @@ Memerlukan data tren makeup yang sedang populer saat ini/yang sering digunakan s
 5. Fitur memasarkan iklan di aplikasi <br>
 6. Fitur manajemen pelanggan (menyimpan data pelanggan) <br>
 7. Fitur manajemen keuangan <br>
-   - Melacak pembayaran cust
-   - Memproses gaji ke MUA
-8. Fitur manajemen layanan 
-   - Mengatur jenis layanan yang laris
-   - Melihat data rating dan review
-   - Memberi poin ke customer
-9. Fitur stok/ketersediaan barang
-10. Fitur kinerja tim(kepuasan pelanggan)
+   - Melacak pembayaran cust <br>
+   - Memproses gaji ke MUA <br>
+8. Fitur manajemen layanan  <br>
+   - Mengatur jenis layanan yang laris <br>
+   - Melihat data rating dan review <br>
+   - Memberi poin ke customer <br>
+9. Fitur stok/ketersediaan barang <br>
+10. Fitur kinerja tim(kepuasan pelanggan) <br>
 
-MUA :
-1. Fitur Profil:
-       - Foto profil
-       - Biografi singkat
-       - Keahlian dan pengalaman
-       - Layanan yang ditawarkan
-2. Fitur upload result foto/video customer
-3. Fitur Pemesanan:
-       - Menandai tanggal dan waktu yang telah ada janji.
-       - Notifikasi pesanan baru.
+MUA : <br>
+1. Fitur Profil: <br>
+       - Foto profil <br>
+       - Biografi singkat <br>
+       - Keahlian dan pengalaman <br>
+       - Layanan yang ditawarkan<br>
+2. Fitur upload result foto/video customer<br>
+3. Fitur Pemesanan:<br>
+       - Menandai tanggal dan waktu yang telah ada janji.<br>
+       - Notifikasi pesanan baru.<br>
        - Daftar pesanan Customer (sistem secara otomatis
           melakukan pengecekan jadwalan yang memungkinkan
-          bentrok)
-      - Menerima dan menolak pemesanan
+          bentrok)<br>
+      - Menerima dan menolak pemesanan<br>
  4. Fitur menandai cust yang sedang proses dan selesai 
-         proses
-5. Fitur pembayaran
-      - Mengatur harga
-      - Melihat data pembayaran 
-6. Fitur Chat Langsung
-      - Berkomunikasi dengan customer
-      - Mengatur detail pemesanan
-7. Fitur jadwal urutan pesanan pada hari tsb/mengatur jam kerja
-8. Fitur peringatan jadwal
+         proses <br>
+5. Fitur pembayaran <br>
+      - Mengatur harga <br>
+      - Melihat data pembayaran <br>
+6. Fitur Chat Langsung <br>
+      - Berkomunikasi dengan customer <br>
+      - Mengatur detail pemesanan <br>
+7. Fitur jadwal urutan pesanan pada hari tsb/mengatur jam kerja <br>
+8. Fitur peringatan jadwal <br>
 
 Customer : <br>
 1.Fitur isi profil <br>
