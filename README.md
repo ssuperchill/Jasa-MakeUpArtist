@@ -42,8 +42,7 @@ Memerlukan data tren makeup yang sedang populer saat ini/yang sering digunakan s
 7. Manager bantu mengingatkan terkait kegiatan atau jadwal MUA, seperti berkomunikasi h-3/2 sebelum acara agar tidak terjadi kelupaan job bagi MUA<br>
    
 # User Interface(figma)
-# Data Mentah 
-![cth kwi](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/22961703-5d59-4bce-abbc-a3b501a4ba33)
+
 
 # Use Case <br>
 ![us ces](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/81aac2b0-6eea-49bc-b153-780f17aa32f6)
