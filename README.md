@@ -88,8 +88,8 @@ MUA :
 7. Fitur jadwal urutan pesanan pada hari tsb/mengatur jam kerja
 8. Fitur peringatan jadwal
 
-Customer : 
-1.Fitur isi profil
+Customer : <br>
+1.Fitur isi profil <br>
 2.Fitur melihat profil MUA
 3.Fitur melihat result foto/video customer
 4.Fitur tampilan utama jenis makeup populer/iklan
@@ -100,7 +100,7 @@ Customer :
 9.Fitur melihat poin
 10.Fitur chat langsung dengan MUA
 11.Fitur memberikan rating dan review 
-12.Fitur denah lokasi
+12.Fitur denah lokasi <br>
 
 
 # Data Mentah 
