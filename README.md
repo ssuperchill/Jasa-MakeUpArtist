@@ -113,7 +113,8 @@ Customer : <br>
 ![ERD FIKS](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/37094588-03a7-4e4e-9a13-2267a7fe253f)
 
 # Class Diagram <br>
-![cd](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/f5167cfd-337b-4ebe-a49a-4042908f8e7d)
+![image](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/122336989/50fc0cc6-9db4-47a7-9a3b-da6e23543f81)
+
 
 # Flow Chart
 ![Flowchart](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/122336989/2a558a4b-54f3-4299-9aca-54676222f552)
