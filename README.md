@@ -113,8 +113,7 @@ Customer : <br>
 ![ERD FIKS](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/145957818/37094588-03a7-4e4e-9a13-2267a7fe253f)
 
 # Class Diagram <br>
-![image](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/122336989/50fc0cc6-9db4-47a7-9a3b-da6e23543f81)
-
+![Diagram DayCare drawio (5)](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/122336989/c11f8e8b-0c27-43ca-b0f2-47e5dee399a6)
 
 # Flow Chart
 ![Flowchart](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/122336989/2a558a4b-54f3-4299-9aca-54676222f552)
