@@ -121,6 +121,10 @@ Customer : <br>
 # Diagram Activity
 ![WhatsApp Image 2024-06-18 at 21 03 59](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/122336989/11d5a38e-c0f2-4c30-b86b-f2930ac54ab2)
 
+#Sequence Diagram
+![image](https://github.com/ssuperchill/Jasa-MakeUpArtist/assets/122336989/295194a3-14ab-4de8-a29e-8c23f460d861)
+
+
 # User Interface (figma)
 [Klik Untuk Dapat Melihat Design Figma](https://www.figma.com/file/MSJyh6XztRZBwZUEFtAYww/Untitled?type=design&node-id=37%3A96&mode=design&t=JLC2SZIKHd8Be7yQ-1)
 
